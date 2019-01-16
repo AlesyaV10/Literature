@@ -1,6 +1,3 @@
-# Literature
-Classworks and homeworks of Digital Humanities
-
 **Lorem Ipsum**
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis congue fermentum ultricies. Donec semper tincidunt arcu, a fermentum lacus tincidunt nec. Morbi placerat massa vestibulum tincidunt pharetra. Sed sed ultricies nulla. Sed bibendum vitae dui nec accumsan. In iaculis lectus at leo sollicitudin iaculis. Donec lacinia ut nibh ut vestibulum. Donec vel efficitur quam.
 
